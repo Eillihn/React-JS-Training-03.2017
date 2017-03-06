@@ -1,0 +1,26 @@
+{
+    "name": "Task-1-ES6-features",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "keywords": [
+        "es6"
+    ],
+    "author": "Hanna Svirskaya",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-core": "6.13.2",
+        "babel-loader": "6.2.5",
+        "babel-preset-es2015": "6.13.2",
+        "babel-preset-stage-2": "6.13.0"
+    },
+    "dependencies": {
+        "babel-polyfill": "6.13.0",
+        "babel-runtime": "6.11.6",
+        "webpack": "1.13.2",
+        "webpack-dev-middleware": "1.6.1",
+        "webpack-hot-middleware": "2.12.2"
+    }
+}
