@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "type": "distances",
+        "from": "cm",
+        "to": "mm",
+        "rate": 10
+    },
+    {
+        "id": 2,
+        "type": "distances",
+        "from": "mm",
+        "to": "cm",
+        "rate": 0.1
+    },
+    {
+        "id": 3,
+        "type": "distances",
+        "from": "cm",
+        "to": "m",
+        "rate": 0.01
+    },
+    {
+        "id": 4,
+        "type": "distances",
+        "from": "mm",
+        "to": "m",
+        "rate": 0.001
+    },
+    {
+        "id": 5,
+        "type": "distances",
+        "from": "m",
+        "to": "mm",
+        "rate": 1000
+    },
+    {
+        "id": 6,
+        "type": "distances",
+        "from": "m",
+        "to": "cm",
+        "rate": 100
+    },
+    {
+        "id": 7,
+        "type": "mass",
+        "from": "kg",
+        "to": "g",
+        "rate": 0.001
+    },
+    {
+        "id": 8,
+        "type": "mass",
+        "from": "g",
+        "to": "kg",
+        "rate": 1000
+    },
+    {
+        "id": 9,
+        "type": "mass",
+        "from": "kg",
+        "to": "lbs",
+        "rate": 2.20462
+    },
+    {
+        "id": 10,
+        "type": "mass",
+        "from": "lbs",
+        "to": "kg",
+        "rate": 0.453592
+    },
+    {
+        "id": 11,
+        "type": "mass",
+        "from": "g",
+        "to": "lbs",
+        "rate": 0.00220462
+    },
+    {
+        "id": 12,
+        "type": "mass",
+        "from": "lbs",
+        "to": "g",
+        "rate": 453.592
+    },
+    {
+        "id": 13,
+        "type": "currencies",
+        "from": "usd",
+        "to": "byn",
+        "rate": 1.882
+    },
+    {
+        "id": 14,
+        "type": "currencies",
+        "from": "byn",
+        "to": "usd",
+        "rate": 0.535
+    }
+]
